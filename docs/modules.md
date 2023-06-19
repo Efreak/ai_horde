@@ -203,7 +203,7 @@ ___
 
 ### ModelGenerationInputStableSamplers
 
-• `Const` **ModelGenerationInputStableSamplers**: `Readonly`<{ `DDIM`: ``"DDIM"`` = "DDIM"; `PLMS`: ``"PLMS"`` = "PLMS"; `dpmsolver`: ``"dpmsolver"`` = "dpmsolver"; `k_dpm_2`: ``"k_dpm_2"`` = "k\_dpm\_2"; `k_dpm_2_a`: ``"k_dpm_2_a"`` = "k\_dpm\_2\_a"; `k_dpm_adaptive`: ``"k_dpm_adaptive"`` = "k\_dpm\_adaptive"; `k_dpm_fast`: ``"k_dpm_fast"`` = "k\_dpm\_fast"; `k_dpmpp_2m`: ``"k_dpmpp_2m"`` = "k\_dpmpp\_2m"; `k_dpmpp_2s_a`: ``"k_dpmpp_2s_a"`` = "k\_dpmpp\_2s\_a"; `k_dpmpp_sde`: ``"k_dpmpp_sde"`` = "k\_dpmpp\_sde"; `k_euler`: ``"k_euler"`` = "k\_euler"; `k_heun`: ``"k_heun"`` = "k\_heun"; `k_lms`: ``"k_lms"`` = "k\_lms" }\>
+• `Const` **ModelGenerationInputStableSamplers**: `Readonly`<{ `DDIM`: ``"DDIM"`` = "DDIM"; `dpmsolver`: ``"dpmsolver"`` = "dpmsolver"; `k_dpm_2`: ``"k_dpm_2"`` = "k\_dpm\_2"; `k_dpm_2_a`: ``"k_dpm_2_a"`` = "k\_dpm\_2\_a"; `k_dpm_adaptive`: ``"k_dpm_adaptive"`` = "k\_dpm\_adaptive"; `k_dpm_fast`: ``"k_dpm_fast"`` = "k\_dpm\_fast"; `k_dpmpp_2m`: ``"k_dpmpp_2m"`` = "k\_dpmpp\_2m"; `k_dpmpp_2s_a`: ``"k_dpmpp_2s_a"`` = "k\_dpmpp\_2s\_a"; `k_dpmpp_sde`: ``"k_dpmpp_sde"`` = "k\_dpmpp\_sde"; `k_euler`: ``"k_euler"`` = "k\_euler"; `k_euler_a`: ``"k_euler_a"`` = "k\_euler_a"; `k_heun`: ``"k_heun"`` = "k\_heun"; `k_lms`: ``"k_lms"`` = "k\_lms" }\>
 
 #### Defined in
 
